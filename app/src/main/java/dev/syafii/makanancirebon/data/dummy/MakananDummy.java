@@ -11,32 +11,33 @@ public class MakananDummy {
                     "Docang",
                     "Cirebon",
                     "https://www.gotravelly.com/blog/wp-content/uploads/2018/04/makanan-khas-cirebon-docang.jpg",
-                    "Kuntilanak (bahasa Melayu: pontianak atau puntianak) atau sering disingkat kunti adalah hantu yang dipercaya berasal dari perempuan hamil yang meninggal dunia atau wanita yang meninggal karena melahirkan dan anak tersebut belum sempat lahir. Nama \"puntianak\" merupakan singkatan dari \"perempuan mati beranak\n\n" +
-                            "Umumnya, kuntilanak digambarkan sebagai wanita cantik berambut panjang dan berbaju panjang warna putih. Dalam cerita rakyat Melayu, sosok kuntilanak digambarkan dalam bentuk wanita cantik dengan punggung berlubang. Kuntilanak digambarkan senang meneror penduduk kampung untuk menuntut balas. Kuntilanak sewaktu muncul selalu diiringi harum bunga kemboja. Konon laki-laki yang tidak berhati-hati bisa dibunuh sesudah kuntilanak berubah wujud menjadi penghisap darah. Kuntilanak dikatakan sering menjelma sebagai wanita cantik yang berjalan seorang diri dijalan yang sunyi.\n",
-                    "15.000"
+                    "Mungkin Anda pernah mendengar nama kuliner ini. Yup, Docang memang terdengar mirip dengan makanan khas kota Bogor yang bernama Doclang. Tak hanya itu, bahan utama yang digunakan juga mirip – seperti adanya lontong. Tapi, Docang dan Doclang memiliki perbedaan di bumbu dan jenis penyajiannya" +
+                            "Untuk Doclang sendiri, kuliner tersebut disiram saus kacang untuk penyajiannya. Berbeda dengan Docang yang dibumbui dengan sayur oncom yang dikombinasikan dengan bungkil kacang tanah serta tambahan parutan kelapa. Isi dari Docang umumnya terdiri dari lontong, daun singkung, tauge, parutan kelapa dan juga kerupuk diatasnya.\n",
+                    "Rp.15.000 per porsi"
             },
             {
-                    "Sundel Bolong",
-                    "Indonesia",
-                    "https://ilmuhikmahblog.files.wordpress.com/2016/09/cerita-nyata-tentang-hantu-sundel-bolong.jpg",
-                    "Sundel bolong (dalam bahasa melayu: sundal bolong) adalah mitos hantu dari nusantara yang umumnya digambarkan sebagai wanita cantik berambut panjang dan bergaun panjang warna putih yang bolong (\"berlubang tembus\") di bagian punggung yang sedikit tertutup rambut panjangnya sehingga organ-organ tubuh bagian perut terlihat.Banyak yang menyangka bahwa Sundel Bolong sama dengan Kuntilanak, karena dalam mitosnya, keduanya digambarkan sama-sama berambut panjang dan mengenakan gaun putih.Hal yang membedakan antara penggambaran sundel bolong dengan kuntilanak adalah punggungnya yang bolong (berlubang).\n\n" +
-                            "Dalam mitos nusantara, hantu sundel bolong adalah arwah penasaran dari wanita yang mati karena diperkosa dan kemudian melahirkan anaknya di dalam kubur.Sundel bolong menurut mitos juga suka mencuri bayi-bayi yang baru saja dilahirkan.Sundel bolong menurut mitos sangat malu dengan lubang pada badannya dan selalu berusaha menutupinya.\n\n" +
-                            "Hantu sundel bolong dikatakan sering menjelma sebagai wanita cantik yang berjalan seorang diri di jalan yang sunyi. Ada dugaan bahwa mitos ini dahulu diciptakan dan disebarkan di nusantara untuk menghindarkan wanita yang berjalan sendirian saat malam hari di pedesaan dari gangguan laki-laki yang berniat jahat, terutama untuk memperkosa."
+                    "Empal Gentong",
+                    "Cirebon",
+                    "https://www.gotravelly.com/blog/wp-content/uploads/2018/04/empal-gentong-1.jpg",
+                    "Kuliner empal yang khas ini sudah sangat dikenal oleh masyarakat Cirebon. Sama, Empal Gentong juga menjadi salah satu dari sekian makanan khas dari Cirebon. Penyajian kuliner ini menggunakan sebuah kuali yang berasal dari bahan tanah liat. Seperti namanya, Empal Gentong dibuat dari daging sapi yang dimasak hingga memberikan daging yang bertekstur lembut sehingga memudahkan kita untuk mengkonsumsinya.\n" +
+                            "Hal ini dikarenakan oleh waktu yang dibutuhkan untuk memasak empal cukup lama, yakni sekitar 5 jam. Dipadukan dengan kuah yang gurih dan sedap, pastinya Anda tidak akan kecewa saat mencoba Empal Gentong. Sajian kuliner ini biasanya ditambah dengan jeroan seperti paru, babat, limpa, dan usus.",
+                    "Rp.17.000 - Rp.25.000"
             },
             {
-                    "Tuyul",
-                    "Indonesia",
-                    "https://media.suara.com/pictures/653x366/2019/08/06/5bca59a6218bfe78fbddc90dd4b3f6c8.jpg",
-                    "Tuyul (bahasa Jawa: thuyul) dalam mitologi hanya pulau jawa, dan sekitarnya,terutama di Pulau Jawa, adalah makhluk halus berwujud orang kerdil dengan kepala gundul dari jenis jin Ifrit. Penggambaran lainnya yang tidak disepakati semua orang adalah kulit berwarna keperakan, bersifat sosial (dalam pengertian memiliki masyarakat dan pemimpin), serta bersuara seperti anak ayam. Tuyul dapat dipekerjakan oleh seorang majikan manusia untuk alasan tertentu, terutama mencuri (uang). Untuk menangkal tuyul, orang memasang yuyu di sejumlah sudut rumah karena tuyul dipercaya menyukai yuyu sehingga ia lupa akan tugas yang dibebankan pemiliknya.\n\n" +
-                            "Kejadian tuyul dipercaya berasal dari janin orang yang keguguran atau bayi yang mati ketika lahir. Karena berasal dari bayi, karakter tuyul juga seperti anak-anak: gemar bermain (seperti laporan orang melihat sejumlah tuyul bermain pada tengah malam, dsb.). Tetapi di dalam kepercayaan agama samawi (Islam, Kristen, Yahudi) Tuyul adalah makhluk halus dari golongan Jin. Di dalam Islam Tuyul di kategorikan golongan jin dari jenis Ifrit. \n\n"
+                    "Mie Koclok",
+                    "Cirebon",
+                    "https://www.gotravelly.com/blog/wp-content/uploads/2018/04/mie-koclok.jpg",
+                    "Sesuai dengan namanya, kuliner khas di Cirebon satu ini berbahan dasar mie. Nah, untuk Anda pecinta mie, kami merekomendasikan Anda untuk mencoba Mie Koclok. Kuliner khas ini kabarnya sudah ada sejak tahun ’45 – memiliki usia yang sama dengan Indonesia.\n\n" +
+                            "Mie ini, disajikan dengan ayam suwir, irisan telur, tauge, dan tambahan daun bawang. Kuahnya yang putih dan kental, akan menambah cita rasa Mie Koclok. Tak perlu lagi untuk menggambarkan rasanya.\n\n",
+                    "Rp.10.000"
             },
             {
-                    "Pocong",
-                    "Indonesia",
-                    "https://cdn.brilio.net/news/2019/07/28/167970/viral-penampakan-pocong-mata-merah-di-google-street-view-serem-1907287.jpg",
-                    "Penggambaran pocong bervariasi. Dikatakan, pocong memiliki wajah berwarna hijau dengan mata yang kosong. Penggambaran lain menyatakan, pocong berwajah \"rata\" dan memiliki lubang mata berongga atau tertutup kapas dengan wajah putih pucat. Mereka yang percaya akan adanya hantu ini beranggapan, pocong merupakan bentuk \"protes\" dari si mati yang terlupa dibuka ikatan kafannya sebelum kuburnya ditutup. Meskipun di film-film pocong sering digambarkan bergerak melompat-lompat, mitos tentang pocong malah menyatakan pocong bergerak melayang-layang. Hal ini bisa dimaklumi, sebab di film-film pemeran pocong tidak bisa menggerakkan kakinya sehingga berjalannya harus melompat-lompat. Keadaan ini pula yang menimbulkan suatu pernyataan yang biasa dipakai untuk membedakan pocong asli dan pocong palsu di masyarakat. \n\n" +
-                            "Di berbagai daerah di Indonesia sendiri ada beberapa versi pocong yang terbentuk dari kepercayaan-kepercayaan dalam kehidupan sosial masyarakat. Salah satunya adalah yang pocong plastik yang konon pernah menggegerkan warga Jakarta. Cerita tentang pocong plastik ini muncul dari kisah seorang wanita hamil yang dibunuh pacarnya. Ketika sedang diotopsi dirumah sakit, mayat wanita itu terus mengucurkan darah, sehingga pihak rumah sakit memutuskan untuk membungkusnya dengan plastik. Warga percaya bahwa kemunculan pocong ini karena arwah dari wanita itu ingin dibukakan ikatan plastik pada jasadnya. \n\n" +
-                            "Lain cerita di daerah Sidoarjo, Jawa Timur. Ada versi penggambaran pocong dengan menaiki delman. Penduduk Sidoarjo menyebutnya sebagai \"andong pocong\". Kisah yang disebut-sebut dengan cerita misteri hantu pocong andong ini sempat menggegerkan warga daerah Sidoarjo pada tahun 2007 – 2008. Hantu pocong ini telah menghantui warga Sidoarjo hampir setiap malam dengan suara khas gemerincing delman dan suara ketukan pintu dimalam hari. Menurut warga setempat, asal usul hantu pocong ini adalah karena kematian dua pengantin baru yang tidak direstui dan mengalami kecelakaan saat menaiki delman. Ada pula yang mempercayai bahwa hantu ini merupakan perwujudan ilmu gaib."
+                    "Nasi Lengko",
+                    "Cirebon",
+                    "https://www.gotravelly.com/blog/wp-content/uploads/2018/04/Nasi-Lengko-khas-cirebon-Haji-Barno.jpg",
+                    "Memang, Indonesia memiliki berbagai macam makanan khas yang berasal dari makanan pokok kita, yaitu nasi. Di Cirebon sendiri, selain Nasi Jamblang, juga ada satu jenis olahan kuliner yang disebut dengan Nasi Lengko. Berbeda dengan Nasi Jamblang, kuliner yang satu ini bisa dibilang lebih menyehatkan.\n\n" +
+                            "Kenapa? Karena lebih menggunakan beragam sayuran. Selain itu, adanya guyuran sambal kacang membuat citarasa Nasi Lengko menjadi beragam, tak terkecuali rasa gurih. Jika Anda berpikir tentang pecel, bisa dibilang Nasi Lengko adalah pecelnya orang Cirebon.",
+                    "Rp.10.000"
             },
             {
                     "Genderuwa",
@@ -47,9 +48,9 @@ public class MakananDummy {
                             "Genderuwa dipercaya dapat berkomunikasi dan melakukan kontak langsung dengan manusia. Berbagai legenda menyebutkan bahwa genderuwa dapat mengubah penampakan dirinya mengikuti wujud fisik seorang manusia untuk menggoda sesama manusia. Genderuwa dipercaya sebagai sosok makhluk yang iseng dan cabul, karena kegemarannya menggoda manusia terutama kaum perempuan dan anak-anak. Genderuwa kadang senang menepuk pantat perempuan, mengelus tubuh perempuan ketika sedang tidur, bahkan sampai memindahkan pakaian dalam perempuan ke orang lain. "
             },
             {
-                    "Wewe",
-                    "Indonesia",
-                    "https://3.bp.blogspot.com/-58-TvwNWFEk/W-V6Mx_ZUgI/AAAAAAAAH3o/mnF7Unf84Q4PndPICFvGNc1_1gEuZIJ0QCLcBGAs/s1600/Gondoruwo%2Bdan%2BWewe%2BGombel.jpg",
+                    "Empal Asam",
+                    "Cirebon",
+                    "https://www.gotravelly.com/blog/wp-content/uploads/2018/04/empal-asam.jpg",
                     "Wewe Gombel atau juga disebut Nenek Gombel adalah sebuah istilah dalam tradisi Jawa yang berarti roh jahat atau hantu yang suka menculik anak-anak, tetapi tidak mencelakainya. Konon anak yang diculik biasanya anak-anak yang ditelantarkan dan diabaikan oleh orang tuanya. Wewe Gombel biasanya akan menakut-nakuti orang tua si anak atas sikap dan perlakuannya kepada anaknya sampai mereka sadar. Bila mereka telah sadar, Wewe Gombel akan mengembalikan anaknya.\n\n" +
                             "Menurut cerita, mitos Wewe Gombel dipercayai digunakan untuk menakut-nakuti anak-anak agar mereka tidak berkeliaran di waktu malam hari. Sebab pada masa lalu, keadaan gelap gulita amat berbahaya karena hewan buas mungkin memasuki kawasan perkampungan dalam kegelapan malam. Oleh karena itu, Wewe Gombel diciptakan untuk menyelamatkan mereka dari ancaman tersebut. Wewe Gombel biasanya digambarkan dengan sosok wanita tua keriput dengan payudara yang terlihat panjang dan menggantung. \n\n" +
                             "Nama Wewe Gombel dengan penggambaran umum seperti yang tertulis di atas mungkin juga bukan sekadar isapan jempol belaka, ada suatu analisis logis mengenai salah satu bentuk motivasi orang-orang dulu (tatanan masyarakat primodial) untuk mengantisipasi tindakan yang mengundang kebiasaan-kebiasaan buruk yang berpotensi melanggar aturan. Misalnya anak-anak yang seharusnya belajar di malam hari atau berkumpul bersama keluarga tetapi malah bermain di luar rumah dan tanpa pengawasan orang. Cerita tentang adanya sosok Wewe Gombel secara turun temurun dan paralel menyebar ke berbagai individu yang sebagaian dari para individu itu mungkin juga secara sepihak mengarang definisi tambahan mengenai sosok Wewe Gombel, kemudian merebak ke segala arah dan dikomsumsi oleh banyak pihak. Konon katanya, Wewe Gombel berasal dari sebuah bukit di kawasan Gombel, Semarang. Dahulu, banyak orang mati di bukit itu akibat pembantaian pada masa penjajahan Belanda."
@@ -58,50 +59,49 @@ public class MakananDummy {
                     "Orang Bunian",
                     "Indonesia",
                     "https://1.bp.blogspot.com/-i1UoUFRvZEg/WFz39kF6cgI/AAAAAAAAALo/6fDEHDwrLNcWwur2_TAMMxi-RpH5tOKmQCLcB/s640/bunian.jpg",
-                    "Orang bunian atau sekadar bunian adalah mitos sejenis makhluk halus yang dipercaya oleh masyarakat Minangkabau dan Melayu di Sumatra, Indonesia serta di Malaysia Barat. Berdasar mitos tersebut, orang bunian berbentuk menyerupai manusia dan tinggal di tempat-tempat sepi, di rumah-rumah kosong yang telah ditinggalkan penghuninya dalam waktu lama. \n\n" +
-                            "Istilah ini dikenal di wilayah Istilah orang bunian juga kadang-kadang dikaitkan dengan istilah dewa di Minangkabau, pengertian \"dewa\" dalam hal ini sedikit berbeda dengan pengertian dewa dalam ajaran Hindu maupun Buddha. \"Dewa\" dalam istilah Minangkabau berarti sebangsa makhluk halus yang tinggal di wilayah hutan, di rimba, di pinggir bukit, atau di dekat pekuburan. Biasanya bila hari menjelang matahari terbenam di pinggir bukit akan tercium sebuah aroma yang biasa dikenal dengan nama \"masakan dewa\" atau \"samba dewa\". Aroma tersebut mirip bau kentang goreng. Hal ini dapat berbeda-beda namun mirip, berdasarkan kepercayaan lokal masyarakat Minangkabau di daerah berbeda. \"Dewa\" dalam kepercayaan Minangkabau lebih diasosiasikan sebagai bergender perempuan, yang cantik rupawan, bukan laki-laki seperti persepsi yang umum di kepercayaan lain. \n\n" +
-                            "Selain itu, masyarakat Minangkabau juga meyakini bahwa ada peristiwa orang hilang disembunyikan dewa / orang bunian. Ada juga istilah \"orang dipelihara dewa\", yang saat bayi telah dilarikan oleh dewa. Mitos ini masih dipercaya banyak masyarakat Minangkabau sampai sekarang. "
+                    "Setelah mencoba Empal Gentong, kami merekomendasikan Anda untuk mencoba empal yang satu ini. Sesuai dengan namanya, citarasa dari makanan khas di Cirebon ini memiliki rasa yang asam, namun segar di mulut kita. Bahan utama yang menciptakan rasa asam di kuliner yang satu ini adalah adanya belimbing wuluh.\n\n" +
+                            "Tapi, Anda tak perlu cemas dengan rasa gurih yang harus wajib ada, pastinya Empal Asam juga tak kalah gurih. Isian dari Empal Asam adalah daging yang ditambah dengan babat. Untuk Anda yang suka pedas, Anda bisa menambahkan sambal agar citarasanya semakin ramai di mulut.\n\n",
+                    "Rp.15.000"
             },
             {
-                    "Leak",
-                    "Indonesia",
-                    "https://hantupedia.com/wp-content/uploads/2016/12/perwujudan-hantu-leak-yang-bisa-berubah-seperti-hewan-siluman-ganas.jpeg",
-                    "Dalam mitologi Bali, Leak adalah penyihir jahat. Leak hanya bisa dilihat di malam hari oleh para dukun pemburu leak. Di siang hari ia tampak seperti manusia biasa, sedangkan pada malam hari ia berada di kuburan untuk mencari organ-organ dalam tubuh manusia yang digunakannya untuk membuat ramuan sihir. Ramuan sihir itu dapat mengubah bentuk leak menjadi seekor harimau, kera, babi atau menjadi seperti Rangda. Bila perlu ia juga dapat mengambil organ dari orang hidup. \n\n" +
-                            "Leak di Bali kerap diidentikkan dengan perilaku jahat para penganut ajaran kiri atau pengiwa yakni berupa kepala manusia dengan organ-organ yang masih menggantung di kepala tersebut. Leak dikatakan dapat terbang untuk mencari wanita hamil, untuk kemudian menghisap darah bayi yang masih di kandungan. Ada tiga leak yang terkenal. Dua di antaranya perempuan dan satu laki-laki. \n\n" +
-                            "Menurut kepercayaan orang Bali, Leak adalah manusia biasa yang mempraktikkan sihir jahat dan membutuhkan darah embrio agar dapat hidup. Dikatakan juga bahwa Leak dapat mengubah diri menjadi babi atau bola api, sedangkan bentuk Leak yang sesungguhnya memiliki lidah yang panjang dan gigi yang tajam. Beberapa orang mengatakan bahwa sihir Leak hanya berfungsi di pulau Bali, sehingga Leak hanya ditemukan di Bali. \n\n" +
-                            "Ada seseorang menusuk leher Leak dari bawah ke arah kepala pada saat kepalanya terpisah dari tubuhnya, maka Leak tidak dapat bersatu kembali dengan tubuhnya. Jika kepala tersebut terpisah pada jangka waktu tertentu, maka Leak akan mati. Dalam lontar durganing purwa dinyatakan bahwa terdapat sekitar 35 jenis leak, diantaranya leak pemoroan, leak nengkleng, leak ugig yang semuanya berkonotasi tentang keburukan di penganut ilmu leak itu. "
+                    "Sate Kalong",
+                    "Cirebon",
+                    "https://www.gotravelly.com/blog/wp-content/uploads/2018/04/sate-kalong-khas-cirebon.jpg",
+                    "Mungkin yang ada di kepala Anda adalah sate yang berbahan daging kelelawar, kan? Di sini, yang membuat kenapa sate ini dinamakan Sate Kalong adalah aktivitas penjualnya yang hanya dilakukan di malam hari.\n\n" +
+                            "Karena itulah masyarakat menyebut makanan khas ini sebagai Sate Kalong. Namun, tidak serta unik gara-gara namanya saja, ternyata daging yang digunakan untuk membuat sate ini adalah daging kerbau. Berbeda dengan citarasa dari sate yang lain, Sate Kalong memiliki rasa yang manis. Untuk Anda pecinta pedas, Anda bisa juga mencocol sate kerbau dari Cirebon ini dengan sambal merah.\n\n",
+                    "Rp.18.000"
             },
             {
-                    "Rangda",
-                    "Indonesia",
-                    "https://3.bp.blogspot.com/-nZ3SYDWC3iw/XBEvMHRUL2I/AAAAAAAACvw/2vO-UqrxiuU9mK78WTjmSTHjsTeDyfIeQCLcBGAs/s1600/Wewe%2BGombel%2B-%2Bmunsy%2Bafandi%2Bmunsyafandi.com.jpg",
-                    "Rangda adalah ratu dari para leak dalam mitologi Bali. Makhluk yang menakutkan ini diceritakan sering menculik dan memakan anak kecil serta memimpin pasukan nenek sihir jahat melawan Barong, yang merupakan simbol kekuatan baik. \n\n" +
-                            "Menurut etimologinya, kata Rangda yang dikenal di Bali berasal dari Bahasa Jawa Kuno yaitu dari kata Randa yang berarti Janda. Rangda adalah sebutan janda dari golongan Tri Wangsa yaitu: Waisya, Ksatria, Brahmana. Sedangkan dari golongan Sudra disebut Balu dan kata Balu dalam bahasa Bali alusnya adalah Rangda.\n\n" +
-                            "Perkembangan selanjutnya istilah Rangda untuk janda semakin jarang kita dengar, karena dikhawatirkan menimbulkan kesan tidak enak mengingat wujud Rangda yang 'aeng' (seram) dan menakutkan serta identik dengan orang yang mempunyai ilmu kiri (pengiwa). Hal ini terutama kita dapatkan dalam pertunjukan-pertunjukan cerita rakyat. Dengan kata lain, ada kesan rasa takut, tersinggung dan malu bila dikatakan bisa neluh nerangjana (ngeleak)."
+                    "Tahu Gejrot",
+                    "Cirebon",
+                    "https://www.gotravelly.com/blog/wp-content/uploads/2018/04/makanan-khas-cirebon-tahu-gejrot.jpg",
+                    "Kuliner dari tahu yang digoreng memang memiliki sesuatu yang membuat kita menjadi tergiur untuk memakannya. Tak terkecuali dengan kuliner khas di Cirebon yang satu ini, Tahu Gejrot sudah banyak dikenal oleh banyak orang.\n\n" +
+                            "Makanan khas yang bisa dianggap sebagai makanan ringan ini, diguyur dengan bumbu yang berasal dari campuran bawang putih, bawang merah, gula merah, dan juga cabai yang dihaluskan. Jika Anda penasaran dengan Tahu Gejrot, Anda bisa mencobanya saat mampir di kota Cirebon. Tambahan, jika Anda mencoba Tahu Gejrot asal Cirebon, hati-hati ketagihan karena rasanya benar-benar lezat.\n\n",
+                    "Rp.10.000"
             },
             {
-                    "Kuyang",
-                    "Indonesia",
-                    "https://www.lucubux.com/wp-content/uploads/2018/11/Legenda-Misteri-Hantu-Kuyang-dan-Kisah-Nyata-Keberadaan-Hantu-Kuyang.jpg",
-                    "Kuyang merupakan siluman berwujud kepala manusia dengan isi tubuh yang menempel tanpa kulit dan anggota badan yang dapat terbang untuk mencari darah bayi atau darah wanita setelah melahirkan. Makhluk ini dikenal masyarakat di Kalimantan. Kuyang sebenarnya adalah manusia (wanita) yang menuntut ajaran ilmu hitam untuk mencapai kehidupan abadi. \n\n" +
-                            "Pada siang hari, seorang kuyang akan menempuh hidup sehari-hari sebagaimana orang biasa, tetapi biasanya ia mengenakan pakaian jubah. Pada malam hari kuyang akan terbang untuk mencari darah bayi atau darah persalinan untuk dihisap sebagai sarana menambah kekuatan ilmunya. Orang yang melihat kuyang terbang biasanya melihatnya seperti burung besar.\n\n" +
-                            "Untuk menghadapinya korban perlu menggunakan sapu ijuk atau memukulkan perabot rumah tangga seperti panci atau wajan."
+                    "Rujak Kangkung",
+                    "Cirebon",
+                    "https://www.gotravelly.com/blog/wp-content/uploads/2018/04/rujak-kangkung-1.jpg",
+                    "Wah, mereka yang suka dengan masakan olahan dari bahan sayuran bisa mencoba salah satu dari makanan khas dari Cirebon ini. Di sini, bahan utama yang digunakan adalah sayur kangkung. Kangkung direbus dan disiram dengan bumbu rujak yang telah dicampur dengan terasi udang khas Cirebon.\n\n" +
+                            "Meskipun terlihat mirip dengan plecing kangkung, namun Rujak Kangkung dari Cirebon ini berbeda. Warna sambal yang disiram berwarna merah, tidak seperti plecing kangkung yang dikonsumsi dengan sambal kacang. Jika Anda mengonsumsi Rujak Kangkung, Anda juga bisa menambahkan kerupuk khas yang berasal dari Cirebon.",
+                    "Rp.10.000"
             },
             {
-                    "Jenglot",
-                    "Indonesia",
-                    "https://ceritahantublog.files.wordpress.com/2015/12/jenglot1.jpg",
-                    "Jenglot adalah figur hominoid yang berukuran kecil (sekitar 10–17 cm), berkulit gelap dengan tekstur kasar (seperti mumi), berwajah seperti tengkorak dan bertaring mencuat serta memiliki rambut dan kuku yang panjang. Jenglot ditemukan di beberapa wilayah di nusantara, misalnya Jawa, Kalimantan,dan Bali.Jenglot dipercaya memiliki kekuatan mistis dan memakan darah manusia. Masyarakat Indonesia meyakini jenglot sebagai makhluk yang memiliki kekuatan mistik dan dapat mengundang bencana. \n\n" +
-                            "Secara medis, jenglot didefinisikan sebagai bukan makhluk hidup setelah diteliti oleh tim forensik Rumah Sakit Cipto Mangunkusumo, Jakarta. Melalui foto sinar Rontgen, tidak ditemukan unsur tulang (sebagai penyangga organ mahluk hidup) namun hal yang mengejutkan justru diperoleh dari penelitian DNA lapisan kulit jenglot yang mengelupas. \n\n" +
-                            "Setelah diperiksa oleh Dokter Djaja Surya Atmaja dari Universitas Indonesia, ternyata lapisan kulit itu memiliki DNA mirip primata sejenis manusia. Akan tetapi, penyelidikan asal usul jenglot secara medis hanya dihentikan sampai di sana karena pemilik jenglot tidak mengizinkan jenglot dibedah, agar tidak ada hal buruk yang terjadi."
+                    "Bubur Sop Ayam",
+                    "Cirebon",
+                    "https://www.gotravelly.com/blog/wp-content/uploads/2018/04/bubur-sop-ayam.jpg",
+                    "Bubur dengan sop ayam, atau sop ayam dengan bubur? Kuliner khas dari Cirebon yang satu ini mungkin masih terdengar asing di telinga orang, tapi Bubur Sop Ayam juga termasuk salah satu makanan khas dari Cirebon yang harus Anda coba. \n\n" +
+                            "Di sini, kuliner ini disajikan dengan menyiram kuah sop ayam ke bubur. Bubur yang digunakan berbeda dengan bubur ayam, tapi bisa dibilang seperti nasi tim. Sop ayam yang disiramkan juga ada sayur, ayam suwir, dan krupuknya. Selain itu, ada juga tambahan irisan tomat juga akan menambah citarasa dari Bubur Sop Ayam ini.",
+                    "Rp.10.000"
             },
             {
-                    "Jailangkung",
-                    "Tiongkok",
-                    "https://live.staticflickr.com/864/39746959920_ea2eeff457_b.jpg",
-                    "Jailangkung adalah sebuah permainan tradisional Nusantara yang bersifat ritual supernatural. Permainan ini bersifat supernatural, umumnya dilakukan sebagai ritual untuk memanggil entitas supernatural. Media yang digunakan untuk menampung makhluk halus atau entitas supernatural yang dipanggil dalam permainan Jailangkung adalah sebuah gayung air yang umumnya terbuat dari tempurung kelapa yang didandani pakaian dan bergagang batang kayu.  \n\n" +
-                            "Asal penggunaan istilah \"Jailangkung\" diduga berhubungan dengan sebuah Kepercayaan tradisional Tionghoa yang telah punah. Ritual ini adalah tentang adanya kekuatan dewa \"Poyang\" dan \"Moyang\" (mirip istilah \"nenek moyang\") yaitu Cay Lan Gong (\"菜篮公\", \"Dewa Keranjang\") dan Cay Lan Tse yang dipercaya sebagai dewa pelindung anak-anak. Permainan Cay Lan Gong juga bersifat ritual dan dimainkan oleh anak-anak remaja saat festival rembulan.  \n\n" +
-                            "Dalam ritual Cay Lan Gong, dewa \"Poyang\" dan \"Moyang\" dipanggil agar masuk ke sebuah boneka keranjang yang tangannya dapat digerakkan. Pada ujung tangan boneka tersebut diikatkan sebuah alat tulis, biasanya kapur. Boneka tersebut juga dihiasi dengan pakaian manusia, dikalungi kunci dan dihadapkan ke sebuah papan tulis, sembari menyalakan dupa. Saat boneka tersebut menjadi terasa berat menurut mereka menjadi pertanda bahwa boneka itu telah dirasuki dewa, dan bergerak mengangguk sebagai pertanda setuju setelah ditanyakan siap tidaknya untuk ditanyai, jawaban-jawaban dari pertanyaan yang diajukan akan dituliskan oleh dewa yang merasuki boneka tersebut pada papan tulis yang disediakan."
+                    "Pedesan Entog",
+                    "Cirebon",
+                    "https://www.gotravelly.com/blog/wp-content/uploads/2018/04/makanan-khas-cirebon-pedesan-entog.jpg",
+                    "Apakah Anda tahu apa itu entog? Entog adalah salah satu jenis unggas yang mirip dengan bebek, namun lebih bontot dan besar. Entog memang terkenal enak jika dijadikan sebagai bahan untuk menciptakan makanan lezat, tak terkecuali dengan Pedesan Entog. Di sini, daging entog disiram dengan kuah yang gurih dan pedas.\n\n" +
+                            "Kuliner khas dari Cirebon ini, akan mampu memberikan rasa yang sangat memanjakan lidah Anda. Untuk Anda yang tidak terlalu suka dengan makanan pedas, Anda bisa meminta Pedesan Entog yang tidak terlalu pedas. Jika Anda ingin mencoba kuliner yang satu ini, Anda bisa pergi ke desa Megu Gede, di Weru. Di sana, ada sebuah warung yang menjual sajian Pedesan Entog dengan citarasa yang sangat lezat.",
+                    "Rp.30.000"
             }
     };
 
