@@ -4,13 +4,15 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    android:background="@android:color/darker_gray"
+    tools:context=".ui.Home.MainActivity">
 
     <include layout="@layout/custom_toolbar_home" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_makan"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        tools:listitem="@layout/item_recycleview"/>
 
 </LinearLayout>

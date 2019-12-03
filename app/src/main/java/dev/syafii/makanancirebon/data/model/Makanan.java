@@ -1,7 +1,7 @@
 package dev.syafii.makanancirebon.data.model;
 
 public class Makanan {
-    private String name, origin, desciption, photo, price;
+    private String name,  desciption, image, price;
 
     public String getName() {
         return name;
@@ -9,14 +9,6 @@ public class Makanan {
 
     public void setName(String name) {
         this.name = name;
-    }
-
-    public String getOrigin() {
-        return origin;
-    }
-
-    public void setOrigin(String origin) {
-        this.origin = origin;
     }
 
     public String getDesciption() {
@@ -27,12 +19,12 @@ public class Makanan {
         this.desciption = desciption;
     }
 
-    public String getPhoto() {
-        return photo;
+    public String getImage() {
+        return image;
     }
 
-    public void setPhoto(String photo) {
-        this.photo = photo;
+    public void setImage(String image) {
+        this.image = image;
     }
 
     public String getPrice() {

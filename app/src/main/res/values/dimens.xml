@@ -2,4 +2,12 @@
 <resources>
     <dimen name="toolbar_icon_margin">8dp</dimen>
     <dimen name="toolbar_icon_padding">8dp</dimen>
+    <dimen name="padding_large_16dp">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="margin_small_8dp">8dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="padding_large_8dp">8dp</dimen>
+    <dimen name="padding_small_4dp">4dp</dimen>
+    <dimen name="textSize_large_16sp">16sp</dimen>
+    <dimen name="textSize_large_24sp">24sp</dimen>
 </resources>

@@ -9,7 +9,6 @@ import android.view.inputmethod.InputMethodManager;
 public class ActivityUtils {
 
     public static void openActivity(Context context, Class<?> target){
-        hideKeyboard((Activity) context);
         context.startActivity(new Intent(context, target));
     }
 

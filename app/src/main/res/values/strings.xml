@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">MakananCirebon</string>
+    <string name="app_name">Makanan Cirebon</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="price">Price</string>
+    <string name="desc">Description</string>
+    <string name="name_me">Muhamad Syafi\'i</string>
+    <string name="email_me">muhamadsyafii4@gmail.com</string>
 </resources>
