@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Muhamad Syafi'i
+  ~ Copyright (c) 2019.
+  ~ All Rights Reserved
+  ~
+  -->
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:padding="@dimen/padding_small_4dp">
+    android:padding="@dimen/padding_small_2dp">
 
     <LinearLayout
         android:layout_marginTop="0dp"

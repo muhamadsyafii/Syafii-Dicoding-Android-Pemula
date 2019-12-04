@@ -1,4 +1,10 @@
 package dev.syafii.makanancirebon.utils;
+/*
+ * Created by Muuhamad Syafi'i
+ * Copyright (c) 2019.
+ * All Rights Reserved
+ *
+ */
 
 import android.app.Activity;
 import android.content.Context;

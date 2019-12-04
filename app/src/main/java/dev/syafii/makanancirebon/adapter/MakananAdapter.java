@@ -1,4 +1,10 @@
 package dev.syafii.makanancirebon.adapter;
+/*
+ * Created by Muuhamad Syafi'i
+ * Copyright (c) 2019.
+ * All Rights Reserved
+ *
+ */
 
 import android.view.LayoutInflater;
 import android.view.View;

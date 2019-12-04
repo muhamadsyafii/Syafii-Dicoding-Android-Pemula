@@ -1,4 +1,10 @@
 package dev.syafii.makanancirebon.data.dummy;
+/*
+ * Created by Muuhamad Syafi'i
+ * Copyright (c) 2019.
+ * All Rights Reserved
+ *
+ */
 
 import java.util.ArrayList;
 

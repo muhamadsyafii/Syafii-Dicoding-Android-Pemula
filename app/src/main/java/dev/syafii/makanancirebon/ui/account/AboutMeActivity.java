@@ -1,4 +1,10 @@
 package dev.syafii.makanancirebon.ui.account;
+/*
+ * Created by Muuhamad Syafi'i
+ * Copyright (c) 2019.
+ * All Rights Reserved
+ *
+ */
 
 import androidx.appcompat.app.AppCompatActivity;
 

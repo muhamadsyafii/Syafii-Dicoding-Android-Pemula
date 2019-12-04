@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Muhamad Syafi'i
+  ~ Copyright (c) 2019.
+  ~ All Rights Reserved
+  ~
+  -->
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_makanan_detail"
@@ -15,6 +21,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
+
             <ImageView
                 android:id="@+id/iv_makanan"
                 android:layout_width="match_parent"
@@ -22,6 +29,8 @@
                 android:adjustViewBounds="true"
                 android:scaleType="fitXY"
                 android:src="@android:color/darker_gray" />
+
+            <include layout="@layout/custom_toolbar_transparent" />
 
             <FrameLayout
                 android:layout_width="match_parent"
@@ -39,10 +48,10 @@
                     android:layout_above="@id/tv_makan_price"
                     android:layout_marginStart="16dp"
                     android:layout_marginLeft="16dp"
-                    android:textStyle="bold"
                     android:text="@string/nama_makanan"
                     android:textColor="@android:color/white"
-                    android:textSize="28sp" />
+                    android:textSize="28sp"
+                    android:textStyle="bold" />
 
                 <TextView
                     android:id="@+id/tv_makan_price"

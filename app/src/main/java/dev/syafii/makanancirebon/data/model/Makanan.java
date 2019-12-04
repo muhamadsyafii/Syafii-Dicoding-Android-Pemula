@@ -1,4 +1,10 @@
 package dev.syafii.makanancirebon.data.model;
+/*
+ * Created by Muuhamad Syafi'i
+ * Copyright (c) 2019.
+ * All Rights Reserved
+ *
+ */
 
 public class Makanan {
     private String name,  desciption, image, price;

@@ -1,4 +1,10 @@
 package dev.syafii.makanancirebon.ui.Home;
+/*
+ * Created by Muuhamad Syafi'i
+ * Copyright (c) 2019.
+ * All Rights Reserved
+ *
+ */
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;

@@ -5,20 +5,29 @@
   ~ All Rights Reserved
   ~
   -->
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.appcompat.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar"
     android:layout_width="match_parent"
     android:layout_height="?attr/actionBarSize"
-    android:background="@color/colorPrimary">
+    android:background="@drawable/gradient_toolbar"
+    app:contentInsetEnd="0dp"
+    app:contentInsetLeft="0dp"
+    app:contentInsetRight="0dp"
+    app:contentInsetStart="0dp"
+    app:layout_collapseMode="pin">
 
     <ImageView
         android:id="@+id/mToolbarBack"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
-        android:layout_margin="@dimen/toolbar_icon_margin"
+        android:background="?attr/selectableItemBackgroundBorderless"
         android:clickable="true"
         android:focusable="true"
+        android:adjustViewBounds="true"
         android:padding="@dimen/toolbar_icon_padding"
         app:srcCompat="@drawable/ic_arrow_left" />
-</RelativeLayout>
+
+</androidx.appcompat.widget.Toolbar>

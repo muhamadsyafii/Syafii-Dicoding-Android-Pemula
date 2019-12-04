@@ -1,4 +1,10 @@
 package dev.syafii.makanancirebon.ui.Home;
+/*
+ * Created by Muuhamad Syafi'i
+ * Copyright (c) 2019.
+ * All Rights Reserved
+ *
+ */
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -10,6 +16,7 @@ import android.widget.TextView;
 import com.bumptech.glide.Glide;
 
 import dev.syafii.makanancirebon.R;
+import dev.syafii.makanancirebon.utils.CustomToolbar;
 
 public class DetailMakananActivity extends AppCompatActivity {
 
@@ -22,6 +29,7 @@ public class DetailMakananActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_detail_makanan);
+        CustomToolbar.setupToolbar(this);
 
         ImageView makanImg = findViewById(R.id.iv_makanan);
         TextView makanName = findViewById(R.id.tv_makan_name);
