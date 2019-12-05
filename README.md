@@ -6,5 +6,5 @@
 # Aplikasi Makanan Khas Cirebon untuk submit Aplikasi Android untuk Pemula dicoding :
 - Menampilkan RecycleView
 - Menampilkan Custom Toolbar
-- Menampilkan Detail Makanan
-- Menampilkan About
+- Menampilkan Halama Detail Makanan
+- Menampilkan Halaman About
